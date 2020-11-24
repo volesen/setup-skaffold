@@ -15,7 +15,9 @@ This action installs the tool [Skaffold](https://github.com/GoogleContainerTools
 ## Example usage
 
 ```yaml
-uses: volesen/setup-skaffold@latest
+uses: volesen/setup-skaffold@v1
 with:
   version: 'v1.17.0'
+
+run: skaffold run
 ```
