@@ -1,0 +1,11 @@
+name: 'Your name here'
+description: 'Provide a description here'
+author: 'Your name or organization here'
+inputs:
+  version: # change this
+    required: true
+    description: 'Skaffold version number, eg. v1.17.0'
+    default: 'latest'
+runs:
+  using: 'node12'
+  main: 'dist/index.js'
