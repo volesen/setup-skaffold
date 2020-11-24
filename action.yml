@@ -1,6 +1,6 @@
-name: 'Your name here'
-description: 'Provide a description here'
-author: 'Your name or organization here'
+name: 'Vincent Olesen'
+description: 'This action install the tool [Skaffold](https://github.com/GoogleContainerTools/skaffold)'
+author: 'Vincent Olesen'
 inputs:
   version: # change this
     required: true
