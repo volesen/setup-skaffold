@@ -1,5 +1,5 @@
 name: 'Vincent Olesen'
-description: 'This action installs the tool [Skaffold](https://github.com/GoogleContainerTools/skaffold)'
+description: 'This action installs the tool Skaffold'
 author: 'Vincent Olesen'
 inputs:
   version: # change this
