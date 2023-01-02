@@ -1,4 +1,4 @@
-name: 'Vincent Olesen'
+name: 'Setup skaffold'
 description: 'This action installs the tool Skaffold'
 author: 'Vincent Olesen'
 inputs:
